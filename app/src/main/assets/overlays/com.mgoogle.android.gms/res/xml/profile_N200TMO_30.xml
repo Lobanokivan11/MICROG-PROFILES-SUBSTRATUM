@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: none
+    SPDX-License-Identifier: CC0-1.0
+-->
+
+<profile name="OnePlus DE2118 (Android 11)" product="OnePlusN200TMO" sdk="30" id="OnePlusN200TMO_30" auto="true">
+    <data key="Build.BOARD" value="holi" />
+    <data key="Build.BOOTLOADER" value="unknown" />
+    <data key="Build.BRAND" value="OnePlus" />
+    <data key="Build.CPU_ABI" value="arm64-v8a" />
+    <data key="Build.CPU_ABI2" value="" />
+    <data key="Build.DEVICE" value="OnePlusN200TMO" />
+    <data key="Build.DISPLAY" value="DE2118_10_210430" />
+    <data key="Build.FINGERPRINT" value="OnePlus/OnePlusN200TMO/OnePlusN200TMO:11/RKQ1.201217.002/2104302154:user/release-keys" />
+    <data key="Build.HARDWARE" value="qcom" />
+    <data key="Build.HOST" value="ubuntu-29" />
+    <data key="Build.ID" value="RKQ1.201217.002" />
+    <data key="Build.MANUFACTURER" value="OnePlus" />
+    <data key="Build.MODEL" value="DE2118" />
+    <data key="Build.PRODUCT" value="OnePlusN200TMO" />
+    <data key="Build.RADIO" value="MPSS.HI.4.0.5.c1-00015-MANNAR_GEN_PACK-1.396706.7" />
+    <data key="Build.TAGS" value="release-keys" />
+    <data key="Build.TIME" value="1619791460000" />
+    <data key="Build.TYPE" value="user" />
+    <data key="Build.USER" value="OnePlus" />
+    <data key="Build.VERSION.CODENAME" value="REL" />
+    <data key="Build.VERSION.INCREMENTAL" value="2104302154" />
+    <data key="Build.VERSION.RELEASE" value="11" />
+    <data key="Build.VERSION.SECURITY_PATCH" value="2021-04-01" />
+    <data key="Build.VERSION.SDK" value="30" />
+    <data key="Build.VERSION.SDK_INT" value="30" />
+    <data key="Build.VERSION.DEVICE_INITIAL_SDK_INT" value="30" />
+    <data key="Build.SUPPORTED_ABIS" value="arm64-v8a,armeabi-v7a,armeabi" />
+    <serial template="" />
+</profile>

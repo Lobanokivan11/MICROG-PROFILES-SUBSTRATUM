@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: none
+    SPDX-License-Identifier: CC0-1.0
+-->
+
+<profile name="Xiaomi Redmi 23021RAA2Y (MIUI v816 - 15)" product="topaz_ru" sdk="35" id="topaz_ru_35" auto="true">
+    <data key="Build.BOARD" value="bengal" />
+    <data key="Build.BOOTLOADER" value="unknown" />
+    <data key="Build.BRAND" value="Redmi" />
+    <data key="Build.CPU_ABI" value="arm64-v8a" />
+    <data key="Build.CPU_ABI2" value="" />
+    <data key="Build.DEVICE" value="topaz" />
+    <data key="Build.DISPLAY" value="AQ3A.240829.003" />
+    <data key="Build.FINGERPRINT" value="Redmi/topaz_ru/topaz:15/AQ3A.240829.003/OS2.0.2.0.VMGRUXM:user/release-keys" />
+    <data key="Build.HARDWARE" value="qcom" />
+    <data key="Build.HOST" value="pangu-build-component-system-505490-nvblm-h744k-b0b2f" />
+    <data key="Build.ID" value="AQ3A.240829.003" />
+    <data key="Build.MANUFACTURER" value="Xiaomi" />
+    <data key="Build.MODEL" value="23021RAA2Y" />
+    <data key="Build.PRODUCT" value="topaz_ru" />
+    <data key="Build.RADIO" value="MPSS.HA.1.1.c1-00097-DIVAR_GENSP_PACK-1,MPSS.HA.1.1.c1-00097-DIVAR_GENSP_PACK-1" />
+    <data key="Build.TAGS" value="release-keys" />
+    <data key="Build.TIME" value="1740388203000" />
+    <data key="Build.TYPE" value="user" />
+    <data key="Build.USER" value="builder" />
+    <data key="Build.VERSION.CODENAME" value="REL" />
+    <data key="Build.VERSION.INCREMENTAL" value="OS2.0.2.0.VMGRUXM" />
+    <data key="Build.VERSION.RELEASE" value="15" />
+    <data key="Build.VERSION.SECURITY_PATCH" value="2025-02-01" />
+    <data key="Build.VERSION.SDK" value="35" />
+    <data key="Build.VERSION.SDK_INT" value="35" />
+    <data key="Build.VERSION.DEVICE_INITIAL_SDK_INT" value="33" />
+    <data key="Build.SUPPORTED_ABIS" value="arm64-v8a,armeabi-v7a,armeabi" />
+    <serial template="49145/00XX00000" />
+</profile>
