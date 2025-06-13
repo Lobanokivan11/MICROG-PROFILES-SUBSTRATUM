@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: none
+    SPDX-License-Identifier: CC0-1.0
+-->
+
+<profile name="Oculus Pacific (Android 7.1.2)" product="vr_pacific" sdk="25" id="vr_pacific_25" auto="true">
+    <data key="Build.BOARD" value="pacific" />
+    <data key="Build.BOOTLOADER" value="lk-1788900026200131" />
+    <data key="Build.BRAND" value="oculus" />
+    <data key="Build.CPU_ABI" value="arm64-v8a" />
+    <data key="Build.CPU_ABI2" value="" />
+    <data key="Build.DEVICE" value="pacific" />
+    <data key="Build.DISPLAY" value="user-178890.2620.131" />
+    <data key="Build.FINGERPRINT" value="oculus/vr_pacific/pacific:7.1.2/N2G48H/178890.2620.131:user/release-keys" />
+    <data key="Build.HARDWARE" value="pacific" />
+    <data key="Build.HOST" value="sandcastle1115.atn2.facebook.com" />
+    <data key="Build.ID" value="N2G48H" />
+    <data key="Build.MANUFACTURER" value="Oculus" />
+    <data key="Build.MODEL" value="Pacific" />
+    <data key="Build.PRODUCT" value="vr_pacific" />
+    <data key="Build.RADIO" value="apq" />
+    <data key="Build.TAGS" value="release-keys" />
+    <data key="Build.TIME" value="1544703571000" />
+    <data key="Build.TYPE" value="user" />
+    <data key="Build.USER" value="twsvcscm" />
+    <data key="Build.VERSION.CODENAME" value="REL" />
+    <data key="Build.VERSION.INCREMENTAL" value="1788900026200131" />
+    <data key="Build.VERSION.RELEASE" value="7.1.2" />
+    <data key="Build.VERSION.SECURITY_PATCH" value="2018-04-05" />
+    <data key="Build.VERSION.SDK" value="25" />
+    <data key="Build.VERSION.SDK_INT" value="25" />
+    <data key="Build.VERSION.DEVICE_INITIAL_SDK_INT" value="" />
+    <data key="Build.SUPPORTED_ABIS" value="arm64-v8a,armeabi-v7a,armeabi" />
+    <serial template="6EAXE300F00000" />
+</profile>
